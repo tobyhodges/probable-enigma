@@ -157,6 +157,9 @@ Rember it was much more condensed here (I copied the graphic and text for OS bui
 ![Figure 2. Sharing as part of the workflow](../fig/01-sharing_as_part_of_workflow.jpg)
 *Figure credits: Tomasz Zielinski and Andrés Romanowski*
 
+PAULINE below there is missing narrative that the overheads are small at each steps, that the overheads help also at the following steps. But are massive ath the end. Then there can be some of the points ... maybe with an edit.
+
+
 When should you engage in data sharing and open practices?
 * Data management should be done throughout the duration of your project.
 * If you wait till the end, it will take a massive effort on your side and will be more of a burden than a benefit.
@@ -192,11 +195,12 @@ so that your "shared" outputs are of value.
 
 PAULINE inset credits if any (for example for DORA)
 > ## Attribution
-> Content of this episode was adopted after XXX et al.
+> Content of this episode was adopted after: 
 > * Wiki [Open Science](https://en.wikipedia.org/wiki/Open_science)
 > * [European Open Science Cloud](https://www.eosc-hub.eu/open-science-info)
 > * [Science is necessarily collaborative - The Biochemist article](https://portlandpress.com/biochemist/article/42/3/58/225220/Science-is-necessarily-collaborative).
->{: .callout}
+>
+{: .callout}
 
 
 ----------- template bits to remove ------------
