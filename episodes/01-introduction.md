@@ -58,7 +58,6 @@ Now we would like to get to learn something about you.
 > For example:
 > - we all had our latest grant proposals accepted by MRC
 > - we are all desperately searching for an experienced lab technician
-
 >
 {: .challenge}
 
@@ -85,7 +84,7 @@ are considered a burden rather than a useful activity. Part of the problem
 is our bad timing and lack of planning.
 
 We will demonstrate to you:
-- why you should know about Open Sciece, FAIR and good data mangment practices
+- why you should know about Open Science, FAIR and good data management practices
 - how adoption of those practices benefits yourself and your group/organization by:
 -- improving productivity
 -- speeding up inductions
@@ -152,7 +151,7 @@ Digital technologies, especially the internet, have accelerated the diffusion of
 >> - lack of credit (eg publishing negative results is of little benefit to you)
 >>
 > {: .solution}
-{: .discussion}
+{: .challenge}
 
 **Data management is a continuous process**
 
@@ -175,23 +174,27 @@ In this workshop we will show you how you can plan and do your research in a way
 > ## Exercise 4. Your presence and influence
 > 
 > Consider some of the ways you exert academic influence by your presence and your activity in the academic community. Which of the following reflect your own experience? 
->> - I currently supervise at least 2 postdocs
->> - I have promoted at least 3 PhDs
->> - I revise at least 4 articles a year
->> - I have been a member of a grant panel
->> - I have been a member of a school/college/university committee
->> - I have contributed to development of an institutional/community policy
->> - I have been involved in the selection process for fellows / lecturers / readers
->> - I am a member of a Research Council
->> - Any other activities through which you exert academic influence in the research community?
+> - I currently supervise at least 2 postdocs
+> - I have promoted at least 3 PhDs
+> - I revise at least 4 articles a year
+> - I have been a member of a grant panel
+> - I have been a member of a school/college/university committee
+> - I have contributed to development of an institutional/community policy
+> - I have been involved in the selection process for fellows / lecturers / readers
+> - I am a member of a Research Council
+> - Any other activities through which you exert academic influence in the research community?
+> 
+{: .challenge}
 
 =======
 > ## Exercise 5. Your minions(!) 
 > Think about your research group. Have they done or been involved in any of the following Open Science activities? 
->>  releasing software; 
->> making data available under an open licence; 
->> public engagement activities; 
->> participating in scientific community groups (eg journal club, Carpentries, ReproducibiliTea)
+> * releasing software; 
+> * making data available under an open licence; 
+> * public engagement activities; 
+> * participating in scientific community groups (eg journal club, Carpentries, ReproducibiliTea)
+>
+{: .challenge}
 
 As power figures, you all have the power to bring about a better research culture by inspiring and supporting your teams to do Open Science, and leading by example through your own actions. 
 
