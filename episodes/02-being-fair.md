@@ -248,9 +248,11 @@ Or domain specific, for example:
     * use (meta)data formats (e.g. SBML, SBOL)
     * follow Minimum Information Standards
 
-*Describing data well is the most challenging part of the data sharing process.
-We will cover this in more detail later on.*
-
+> 
+> Describing data well is the most challenging part of the data sharing process.
+> We cover this in more detail in [FAIR in bio practice](https://carpentries-incubator.github.io/fair-bio-practice/index.html)
+> 
+{: .testimonial}
 
 2. Attach license files.
 Licenses explicitly declare conditions and terms by which data and software can be re-used.
