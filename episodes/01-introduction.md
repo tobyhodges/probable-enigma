@@ -94,8 +94,9 @@ We will demonstrate you:
 
 ## Evolution of research and Open Science
 
-PAULINE some text that follows my narrative from the test run. You can copy OS relavant information from the 02-OS-Intruduction episode in FAIR-in-bio-pracice.
-Rember it was much more condensed here (I copied the graphic and text for OS buildig blocks, and the follo excercise).
+PAULINE some text that follows my narrative from the test run. You can copy OS relavant information from the 02-OS-Intruduction episode (https://carpentries-incubator.github.io/fair-bio-practice/02-os-introduction/index.html) in FAIR-in-bio-pracice.
+Rember it was much more condensed here (I copied the graphic and text for OS buildig blocks, and the follo excercise). 
+It should reflect the key points from Power Point slides
 
 ![Figure 1. Open Science Building Blocks](../fig/OpenScienceBuildingBlocks.jpg)
 
