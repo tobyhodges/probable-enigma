@@ -5,12 +5,12 @@ exercises: 0
 questions:
 - "Who are we?"
 - "Why should you know about Open Science and Data Managment?"
-- "Why should you addapt good data managment practices?"
+- "Why should you adopt good data managment practices?"
 objectives:
 - "Introduce ourselves and the course"
 - "Understand how you shape the future of research"
 - "Understand your responsibilites to your subordinates"
-- "Understand the changes triggered by DORA agreement" 
+- "Understand the changes triggered by the DORA agreement" 
 keypoints:
 - "You are a power figure"
 - "You need to permit your 'minions' to be ready for the future"
@@ -53,7 +53,7 @@ Now we would like to get to learn something about you.
 
 > ## Who are you and what are your expectations from the workshop
 >
-> Please, introduce yourselves telling why you have joined this course.
+> Please, introduce yourselves saying why you have joined this course.
 > Then, try to find one professional/academic thing that your group has in common.
 > 
 > For example:
