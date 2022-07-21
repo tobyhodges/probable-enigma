@@ -53,26 +53,25 @@ Now we would like to get to learn something about you.
 
 > ## Who are you and what are your expectations from the workshop
 >
-> Please, introduce yourselves saying why you have joined this course.
-> Then, try to find one professional/academic thing that your group has in common.
-> 
+> Please, Introduce yourselves telling each other why you have joined this course.
+> Then, try to find one professional/academic thing that your group has in common. 
 > For example:
-> - we all have our last grant proposals accepted by MRC
-> - we all desperate searching for an experienced lab technician
+> - we all had our latest grant proposals accepted by MRC
+> - we are all desperately searching for an experienced lab technician
+
 >
 {: .challenge}
 
 
 > ## You and data sharing
 >
-> Thinking of how you and your group make the data or code available to others and how your group uses others data,
-> write +1 next to the statements that matches your own experience:
+> Thinking of how you and your group make data or code available to others and how your group uses others’ data, write “+1” next to any statements that match your own experience:
 > 
-> - We do not really share data, we only publish the results as a part of a publication:
+> - We do not really share data, we only publish the results as part of a publication:
 > - We have made our data available only as Supporting Information for a paper:
 > - We have made our data available as both Supporting Information and as a dataset in a repository:
 > - We have made our data/code available without having it published in a paper:
-> - We share the code in github or another code repository:
+> - We share the code in GitHub or another code repository:
 > - We make the code available on demand:
 > - We have used a dataset from a public repository:
 >
@@ -85,12 +84,12 @@ For many of us, data management or output sharing in general
 are considered a burden rather than a useful activity. Part of the problem
 is our bad timing and lack of planning.
 
-We will demonstrate you:
+We will demonstrate to you:
 - why you should know about Open Sciece, FAIR and good data mangment practices
-- how addoption of those pracices benefits yourself and your group/organization by:
+- how adoption of those practices benefits yourself and your group/organization by:
 -- improving productivity
--- seeding up inductions
--- helping with your managerial responsibilties
+-- speeding up inductions
+-- helping with your managerial responsibilities
 
 ## Evolution of research and Open Science
 
