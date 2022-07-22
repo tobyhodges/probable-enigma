@@ -4,12 +4,12 @@ teaching: 22
 exercises: 0
 questions:
 - "Who are we?"
-- "Why should you know about Open Science and Data Managment?"
-- "Why should you adopt good data managment practices?"
+- "Why should you know about Open Science and Data Management?"
+- "Why should you adopt good data management practices?"
 objectives:
 - "Introduce ourselves and the course"
 - "Understand how you shape the future of research"
-- "Understand your responsibilites to your subordinates"
+- "Understand your responsibilities to your subordinates"
 - "Understand the changes triggered by the DORA agreement" 
 keypoints:
 - "You are a power figure"
