@@ -1,7 +1,7 @@
 ---
 title: "Better research by better sharing"
-teaching: 22
-exercises: 0
+teaching: 20
+exercises: 20
 questions:
 - "Who are we?"
 - "Why should you know about Open Science and Data Management?"
@@ -19,6 +19,7 @@ key points:
 
 ## Introductions
 
+(3 minutes)
 > Introductions set the stage for learning.
 >
 > --- Tracy Teal, Former Executive Director, The Carpentries
@@ -51,7 +52,7 @@ We are very pleased to have you with us.
 
 Now we would like to get to learn something about you.
 
-> ## Who are you and what are your expectations from the workshop
+> ## Who are you and what are your expectations from the workshop (4.5 min)
 >
 > Please, Introduce yourselves telling each other why you have joined this course.
 > Then, try to find one professional/academic thing that your group has in common. 
@@ -62,7 +63,7 @@ Now we would like to get to learn something about you.
 {: .challenge}
 
 
-> ## You and data sharing
+> ## You and data sharing (3min)
 >
 > Thinking of how you and your group make data or code available to others and how your group uses others’ data, write “+1” next to any statements that match your own experience:
 > 
@@ -76,6 +77,8 @@ Now we would like to get to learn something about you.
 >
 {: .challenge}
 
+
+( 7 min teaching )
 
 ## Better research by better sharing
 
@@ -133,7 +136,7 @@ Digital technologies, especially the internet, have accelerated the diffusion of
 * **Open Educational Resources (OER):** Educational materials that are free of charge for anyone to access and use to learn from, and openly licensed to remove barriers to re-use. These can be anything from talks, instructional videos, and explanations posted on video hosting websites (e.g. YouTube), to entire digital textbooks written and then published freely online. 
 
 
-> ## Exercise 3: Why we are not doing Open Science / Data Sharing already (4 min)
+> ## Exercise 3: Why we are not doing Open Science / Data Sharing already (3 + 2 min)
 >
 > Discuss Open Science / Data Sharing barriers - what are some of the reasons for not already being open?:
 >
@@ -153,6 +156,7 @@ Digital technologies, especially the internet, have accelerated the diffusion of
 > {: .solution}
 {: .challenge}
 
+(teaching 3min)
 **Data management is a continuous process**
 
 ![Figure 2. Sharing as part of the workflow](../fig/01-sharing_as_part_of_workflow.jpg)
@@ -171,7 +175,7 @@ In this workshop we will show you how you can plan and do your research in a way
 
 ## Why you should know it - power figures
 
-> ## Exercise 4. Your presence and influence
+> ## Exercise 4. Your presence and influence (5 with Ex5)
 > 
 > Consider some of the ways you exert academic influence by your presence and your activity in the academic community. Which of the following reflect your own experience? 
 > - I currently supervise at least 2 postdocs
@@ -196,6 +200,7 @@ In this workshop we will show you how you can plan and do your research in a way
 >
 {: .challenge}
 
+(teaching 8)
 As power figures, you all have the power to bring about a better research culture by inspiring and supporting your teams to do Open Science, and leading by example through your own actions. 
 
 ## Research assessment
@@ -240,7 +245,7 @@ Timestamps on the digital systems that are now used for sharing data, code etc w
 
 ## Why you should do it
 
-> ## Exercise 6. Lottery winner
+> ## Exercise 6. Lottery winner (5)
 > Imagine a situation in which you suddenly lose a postdoc because she/he has won the National Lottery and won’t be coming to work any more (or more realistically, they were hit by a bus). Which of the following scenarios can you relate to? 
 > - everything should be recorded in their notebook, which you hope is in the office.  
 But frankly, you have never checked how good their lab notes are. 
