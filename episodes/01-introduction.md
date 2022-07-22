@@ -11,7 +11,7 @@ objectives:
 - "Understand how you shape the future of research"
 - "Understand your responsibilities to your subordinates"
 - "Understand the changes triggered by the DORA agreement" 
-keypoints:
+key points:
 - "You are a power figure"
 - "You need to permit your 'minions' to be ready for the future"
 - "Remember, your group can do better research if you plan to share your outputs!"
@@ -113,7 +113,7 @@ Digital technologies, especially the internet, have accelerated the diffusion of
 
 * **Open Data:** Data freely and readily available to access (ie free of charge), reuse, and share (ie openly licensed). Smaller data sets were often made available as
   supplemental materials by journals alongside articles themselves.
-  However, research data should be hosted in repositories (eg Zenodo, Edinburgh DataShare) where they can be given their own persistent identifier (eg DOI) to make them easily citeable, and for greater findability, long-term accessibility. Sharing of data is facilitated by open licences such as Creative Commons licences, which make clear to the user what they can do with the data and what conditions apply. Trustworthy repositories assure long-term preservation and accessibility of data. 
+  However, research data should be hosted in repositories (eg Zenodo, Edinburgh DataShare) where they can be given their own persistent identifier (eg DOI) to make them easily citable, and for greater findability, long-term accessibility. Sharing of data is facilitated by open licences such as Creative Commons licences, which make clear to the user what they can do with the data and what conditions apply. Trustworthy repositories assure long-term preservation and accessibility of data. 
 
 * **Open Software:** Software where the source code is made readily available;
   and others are free to use, change, and
@@ -198,7 +198,14 @@ In this workshop we will show you how you can plan and do your research in a way
 
 As power figures, you all have the power to bring about a better research culture by inspiring and supporting your teams to do Open Science, and leading by example through your own actions. 
 
+## Research assessment
+To change the way we do science we need to change the way we measure success, and incentivise work. 
 
+
+### Declaration On Research Assessment (DORA) 
+
+
+### Narrative CVs
 PAULINE insert : inforamtion about DORA and narrative CVs.
 
 Conclusions that it is easier to be prepared than to fake it.
