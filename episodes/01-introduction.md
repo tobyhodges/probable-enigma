@@ -11,7 +11,7 @@ objectives:
 - "Understand how you shape the future of research"
 - "Understand your responsibilities to your subordinates"
 - "Understand the changes triggered by the DORA agreement" 
-keypoints:
+key points:
 - "You are a power figure"
 - "You need to permit your 'minions' to be ready for the future"
 - "Remember, your group can do better research if you plan to share your outputs!"
@@ -113,7 +113,7 @@ Digital technologies, especially the internet, have accelerated the diffusion of
 
 * **Open Data:** Data freely and readily available to access (ie free of charge), reuse, and share (ie openly licensed). Smaller data sets were often made available as
   supplemental materials by journals alongside articles themselves.
-  However, research data should be hosted in repositories (eg Zenodo, Edinburgh DataShare) where they can be given their own persistent identifier (eg DOI) to make them easily citeable, and for greater findability, long-term accessibility. Sharing of data is facilitated by open licences such as Creative Commons licences, which make clear to the user what they can do with the data and what conditions apply. Trustworthy repositories assure long-term preservation and accessibility of data. 
+  However, research data should be hosted in repositories (eg Zenodo, Edinburgh DataShare) where they can be given their own persistent identifier (eg DOI) to make them easily citable, and for greater findability, long-term accessibility. Sharing of data is facilitated by open licences such as Creative Commons licences, which make clear to the user what they can do with the data and what conditions apply. Trustworthy repositories assure long-term preservation and accessibility of data. 
 
 * **Open Software:** Software where the source code is made readily available;
   and others are free to use, change, and
@@ -198,30 +198,84 @@ In this workshop we will show you how you can plan and do your research in a way
 
 As power figures, you all have the power to bring about a better research culture by inspiring and supporting your teams to do Open Science, and leading by example through your own actions. 
 
+## Research assessment
+To change the way we do science we need to change the way we measure success, and change our incentives.   
 
-PAULINE insert : inforamtion about DORA and narrative CVs.
+### San Francisco Declaration On Research Assessment (DORA) 
 
-Conclusions that it is easier to be prepared than to fake it.
+Thousands of organisations around the world have signed DORA, including funders such as the Wellcome Trust, BBSRC and over two hundred other UK organisations. The declaration sets out a commitment to assessing research outputs based on their quality ('intrinsic merit'). While DORA famously calls for a reduced reliance on journal-based metrics it doesn't just cover papers, it applies to data too.  
+
+https://sfdora.org 
+
+The Wellcome Trust guidance on implementing DORA states that Wellcome requires institutions it funds to "commit to assessing research outputs and other research contributions based on their intrinsic merit". They distil the principles of DORA as follows: 
+
+> "We believe that research assessment processes used by research organisations and funders in making recruitment, promotion and funding decisions should embody two core principles (‘the principles’) as set out in the San Francisco Declaration on Research Assessment (DORA):  
+> 
+> * **be explicit about the criteria used to evaluate scientific productivity**, and clearly highlight that the scientific content of a paper is more important than publication metrics or the identity of the journal in which it is published
+>
+> * **recognise the value of all relevant research outputs (for example publications, datasets and software)**, as well as other types of contributions, such as training early-career researchers and influencing policy and practice." 
+> --- Wellcome Trust "Guidance for research organisations on how to implement responsible and fair approaches for research assessment" https://wellcome.org/grant-funding/guidance/open-access-guidance/research-organisations-how-implement-responsible-and-fair-approaches-research  
+
+{: .testimonial}
+
+Funders like Cancer Research UK and Wellcome have updated their application processes to include not just papers but more broadly-defined achievements, public engagement and mentoring. 
+
+### Narrative CVs 
+
+What is a narrative CV, and how does it relate to making data FAIR? 
+
+"...a CV format in an application that prompts written descriptions of contributions and achievements that reflect a broad range of skills and experiences. This is a change from metrics-based CVs that are primarily  publication lists with employment and education history with little context."
+Imperial College London
+
+There is a growing recognition of the benefit of 'narrative CVs' to shifting the culture towards Open Science, even among the research funding establishment, for example see this UKRI event trailer ["Supporting the community adoption of R4R-like narrative CVs"](https://www.ukri.org/what-we-offer/supporting-healthy-research-and-innovation-culture/research-and-innovation-culture/supporting-the-community-adoption-of-r4r-like-narrative-cvs/) . 
+
+
+### Prepare for FAIR, because it is easier to be well-prepared than to fake it! 
+
+It takes time to produce open outputs, but the rewards come in time saved down the line, and greater quality and findability of data in the long-run. 
+
+The quality of open outputs is easy to assess. 
+
+Timestamps on the digital systems that are now used for sharing data, code etc will show very clearly how long you've been doing FAIR :-) 
 
 ## Why you should do it
 
-PAULINE insert Ex6 Lottery winner
+> ## Exercise 6. Lottery winner
+> Imagine a situation in which you suddenly lose a postdoc because she/he has won the National Lottery and won’t be coming to work any more (or more realistically, they were hit by a bus). Which of the following scenarios can you relate to? 
+> - everything should be recorded in their notebook, which you hope is in the office.  
+But frankly, you have never checked how good their lab notes are. 
+> - everything should be in the team’s Electronic Lab Notebook, and you can quickly check if that is the case. 
+> - all data, excel, presentations and paper drafts are in a shared network drive. 
+> - some data and documents may only be in the postdoc’s PC/laptop. 
+> - every now and then, you check people’s data and notes, so you are fairly confident they follow good practices and you know where you can find what is needed. 
+> - your group has a “data management” policy/plan to which all members are introduced as part of their induction, so at least in principle all should be fine. 
+> - you have left it to your group to organise such trivial matters and you’re hoping they did it well. 
+> - your lab manager should know it all. 
+> - there was the old postdoc who knew it all but they left last year. 
+> - you are getting nervous!!!
 
-Repeat why good data managment help in leading own group/institution
+{: .challenge}
+
+## Conclusion
+Good research data management, FAIR data, Open Science are an integral part of scientific leadership in the modern world. 
+
+## Agenda
 
 Our agenda:
 * We will talk about FAIR principles, which steps you should take
 so that your "shared" outputs are of value.
 * We will show you how Open Science related tools like ELN, code repositories etc benefit you as a team leader
 * We will show you how public repositories make your outputs accessible and reusable.
-* We will consolidate our knowledge of FAIR ready data management and data managment planning.
+* We will consolidate our knowledge of FAIR ready data management and data management planning.
 
-PAULINE inset credits if any (for example for DORA)
 > ## Attribution
-> Content of this episode was adopted after: 
+> Content of this episode was adopted from: 
 > * Wiki [Open Science](https://en.wikipedia.org/wiki/Open_science)
 > * [European Open Science Cloud](https://www.eosc-hub.eu/open-science-info)
 > * [Science is necessarily collaborative - The Biochemist article](https://portlandpress.com/biochemist/article/42/3/58/225220/Science-is-necessarily-collaborative).
+> * UKRI [Supporting the community adoption of R4R-like narrative CVs](https://www.ukri.org/what-we-offer/supporting-healthy-research-and-innovation-culture/research-and-innovation-culture/supporting-the-community-adoption-of-r4r-like-narrative-cvs/) 
+> * Imperial Colleage [Narrative CVs](https://www.imperial.ac.uk/research-and-innovation/support-for-staff/scholarly-communication/bibliometrics/narrative-cvs/ )
+> * Wellcome [Guidance for research organisations on how to implement responsible and fair approaches for research assessment](https://wellcome.org/grant-funding/guidance/open-access-guidance/research-organisations-how-implement-responsible-and-fair-approaches-research)
 >
 {: .callout}
 
