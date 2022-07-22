@@ -1,7 +1,7 @@
 ---
 title: "Being FAIR"
-teaching: 44
-exercises: 16
+teaching: 20
+exercises: 10
 questions:
 - "How to get more value from your own data?"
 - "What are the FAIR guidelines?"
@@ -14,7 +14,7 @@ keypoints:
 - "FAIR stands for Findable Accessible Interoperable Reusable"
 - "FAIR assures easy reuse of data underlying scientific findings"
 ---
-(7 min teaching)
+(5 min teaching)
 
 We have seen how early adoption of good data management practices can benefit your team and institution.
 The wide adoption of Open Access principles has resulted in an easy access
@@ -39,7 +39,7 @@ that accompanies those publications.
 Let's have a look how challenging it can be to access and use
 data from published biological papers.
 
-> ## Exercise 1: Impossible protocol (5 min)
+> ## Exercise 1: Impossible protocol (5 + 3 min)
 >
 > You need to do a western blot to identify Titin proteins,
 > the largest proteins in the body, with a molecular weight of 3,800 kDa.
@@ -110,7 +110,7 @@ data from published biological papers.
 >
 {: .challenge}
 
-(29 min teaching)
+
 
 <!---
 > ## Impossible format
@@ -121,6 +121,8 @@ data from published biological papers.
 >
 {: .challenge}
 -->
+
+(10 min teaching)
 
 The above examples illustrate the typical challenges in accessing research
 data and software.  
@@ -232,8 +234,8 @@ Or domain specific, for example:
 
 #### Interoperable
 
-* Use common file formats (can be domain specific)
-* Always use .csv or .xls files for numerical data.
+* Use standard or open file formats (can be domain specific)
+* Always use .csv or .xlsx files for numerical data.
 * **Never** share data tables as word or pdf,
 * Provide underlying numerical data for all plots and graphs
 * Convert proprietary binary formats to the open ones. For example convert Snapgene to Genbank, microscopy multistack images to OME-TIFF
@@ -250,7 +252,7 @@ Or domain specific, for example:
 
 > 
 > Describing data well is the most challenging part of the data sharing process.
-> We cover this in more detail in [FAIR in bio practice](https://carpentries-incubator.github.io/fair-bio-practice/index.html)
+> This topic is covered in more detail in [FAIR in bio practice](https://carpentries-incubator.github.io/fair-bio-practice/index.html)
 > 
 {: .testimonial}
 
@@ -284,7 +286,7 @@ or [Apache license](http://www.apache.org/licenses/).
 {: .callout}
 
 
-> ## Exercise 3: FAIR and You (3 min)
+> ## Exercise 3: FAIR and You (3 + 2min)
 >
 > The FAIR acronym is sometimes accompanied with the following labels:
 > * Findable - Citable
@@ -315,7 +317,7 @@ or [Apache license](http://www.apache.org/licenses/).
 > {: .solution}
 {: .challenge}
 
-## FAIR vs Open Science (6 min teaching)
+## FAIR vs Open Science (3 min teaching)
 
 **FAIR does not mean Open**. Actually, FAIR guideline only requires
 that the metadata record is always accessible.
@@ -337,7 +339,7 @@ website.
 
 
 
-> ## Exercise 4: FAIR Quiz (5 min - run through break)
+> ## Exercise 4: FAIR Quiz (3 min - run through break)
 >
 > Which of the following statements is true/false (T or F).
 >
