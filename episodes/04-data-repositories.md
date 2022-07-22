@@ -1,7 +1,7 @@
 ---
 title: "Public repositories"
-teaching: 26
-exercises: 39
+teaching: 20
+exercises: 20
 questions:
 - "Where can I deposit datasets?"
 - "What are general data repositories?"
@@ -17,7 +17,8 @@ keypoints:
 ---
 
 ## What are research data repositories?
-(13 min teaching)
+
+(8 min teaching)
 Research data repositories are online repositories that enable the preservation, curation and publication of research 'products'. These repositories are mainly used to deposit research 'data'. However, the scope of the repositories is broader as we can also deposit/publish 'code' or 'protocols'. 
 
 There are general "data agnostic" repositories, for example:
@@ -70,7 +71,7 @@ Research outputs should be submitted to discipline/domain-specific repositories 
 >    
 {: .callout}
 
-> ## Exercise 1: Public general record (x min)
+> ## Exercise 1: Public general record (4 min)
 >
 > [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5045374.svg)](https://doi.org/10.5281/zenodo.5045374)  
 >
@@ -86,10 +87,10 @@ Research outputs should be submitted to discipline/domain-specific repositories 
 {: .challenge}
 
 
-> ## Exercise 2: Datasets discovery (5 min)  
+> ## Exercise 2: Datasets discovery (4 min instructur should search over)  
 >  
 > Try to find either: 
-> * similar data sets in Zenodo
+> * data sets related to neuromuscular junction in Zenodo
 > * data sets of interest for you
 > 
 > Judge the following:
@@ -110,7 +111,7 @@ Research outputs should be submitted to discipline/domain-specific repositories 
 <br>
 
 
-> ## Exercise 3. Domain specific repositories (7 min).  
+> ## Exercise 3. Domain specific repositories (5 + 2 min).  
 >  
 > Select one of the following repositories based on your expertise/interests:  
 >  
@@ -162,7 +163,7 @@ So how do you go about finding a repository:
 
 - our own: [BioRDM suggested data repositories](https://www.wiki.ed.ac.uk/display/RDMS/Suggested+data+repositories)
 
-> ## Exercise 4: Finding a repository (5 min).
+> ## Exercise 4: Finding a repository (3 min).
 >
 > Using [Fairsharing](https://fairsharing.org/) or Registry of research data repositories [re3data](https://www.re3data.org/ )
 > - Find a repo for flow cytometry data.  
@@ -170,10 +171,11 @@ So how do you go about finding a repository:
 > 
 >> ## Solution  
 >>  Note to instructor: Fairsharing gives few options, people may give different answer follow up why they selected particular ones. 
+>> show genomoics query vs recommended by funders/BioRDM 
 > {: .solution}  
 {: .challenge}  
 
-(6 min teaching)
+(7 min teaching including the discussion about repositories in Ex5)
 
 A list of UoE BioRDM's recommended data repositories can be found [here](https://www.wiki.ed.ac.uk/display/RDMS/Suggested+data+repositories).
 
