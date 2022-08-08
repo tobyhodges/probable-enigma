@@ -166,14 +166,16 @@ Writing a Data Management Plan well can help you to share your data efficiently 
 
 
 When should you engage in data sharing and open practices?
-* Data management should be done throughout the duration of your project.
-* If you wait till the end, it will take a massive effort on your side and will be more of a burden than a benefit.
-* Taking the time to do effective data management will help you understand your data better and make it easier to find when you need it (for example when you need to write a manuscript!).
+* Data management should be done throughout the duration of your projects ie throughout the data lifecycle. 
+* Your team need to know from the earliest stage that you support them to invest time to make data FAIR eg documenting data as they go along.  
+* If you wait till the end to make that clear, it will take more effort overall, reducing the relative benefit.
+* Allowing for the time to do effective data management will help you and your team to understand your data better and make it easier to find when you need it (for example when you need to write a manuscript!).
 * All the practices that enable others to access and use your outcomes directly benefit you and your group. 
 
 In this workshop we will show you how you can plan and do your research in a way that makes your outputs readily available for re-use by others.
 
-## Why you should know it - power figures
+## Why you should know it - power figures 
+As a Principal Investigator you wield a certain amount of power through the decisions you make, the expectations you set for your team and the example you set. 
 
 > ## Exercise 4. Your presence and influence (5 with Ex5)
 > 
@@ -274,10 +276,10 @@ so that your "shared" outputs are of value.
 * We will consolidate our knowledge of FAIR ready data management and data management planning.
 
 > ## Attribution
-> Content of this episode was adopted from: 
-> * Wiki [Open Science](https://en.wikipedia.org/wiki/Open_science)
+> Content of this episode was adapted from: 
+> * Wikipedia [Open Science](https://en.wikipedia.org/wiki/Open_science)
 > * [European Open Science Cloud](https://www.eosc-hub.eu/open-science-info)
-> * [Science is necessarily collaborative - The Biochemist article](https://portlandpress.com/biochemist/article/42/3/58/225220/Science-is-necessarily-collaborative).
+> * The Biochemist ["Science is necessarily collaborative" - article](https://portlandpress.com/biochemist/article/42/3/58/225220/Science-is-necessarily-collaborative).
 > * UKRI [Supporting the community adoption of R4R-like narrative CVs](https://www.ukri.org/what-we-offer/supporting-healthy-research-and-innovation-culture/research-and-innovation-culture/supporting-the-community-adoption-of-r4r-like-narrative-cvs/) 
 > * Imperial Colleage [Narrative CVs](https://www.imperial.ac.uk/research-and-innovation/support-for-staff/scholarly-communication/bibliometrics/narrative-cvs/ )
 > * Wellcome [Guidance for research organisations on how to implement responsible and fair approaches for research assessment](https://wellcome.org/grant-funding/guidance/open-access-guidance/research-organisations-how-implement-responsible-and-fair-approaches-research)
@@ -285,38 +287,7 @@ so that your "shared" outputs are of value.
 {: .callout}
 
 
------------ template bits to remove ------------
-## I am a section
 
-With a text.
-
-![Figure 1. I am some figure](../fig/figure_file.jpg)
-
-*After [Figure source](https://www.figure.link/)*
-
-
-> ## I am a yellow info
->
-> And my text.
-{: .callout}
-
-
-~~~
-I am code
-~~~
-{: .source}
-
-
-> ## I am a problem
->
-> Defined here.
->
->> ## Solution
->>
->> *   I am an answer.
->> *   So am I.
-> {: .solution}
-{: .challenge}
 
 
 
