@@ -5,7 +5,7 @@ exercises: 10
 questions:
 - "How to get more value from your own data?"
 - "What are the FAIR guidelines?"
-- "Why being FAIR matters?"
+- "Why does being FAIR matter?"
 objectives:
 - "Recognize typical issues that prevent data re-use"
 - "Understand FAIR principles"
@@ -17,16 +17,16 @@ keypoints:
 (5 min teaching)
 
 We have seen how early adoption of good data management practices can benefit your team and institution.
-The wide adoption of Open Access principles has resulted in an easy access
-to recent biomedical publications.
+The wide adoption of Open Access principles has resulted in access
+to recent biomedical publications becoming far easier. 
 Unfortunately, the same cannot be said about data and software
-that accompanies those publications.
+that accompanies such publications.
 
 > ## What is data
 >
 > Although scientific data is a very broad term, we still encounter
 > groups who (wrongly) believe they do not have data!
-> Data does not mean Excel files with recorded measurements from a machine.
+> Data does not mean only Excel files with recorded measurements from a machine.
 > Data also includes:
 > * images, not only from microscopes
 > * information about biological materials, like strain or patient details
@@ -136,12 +136,12 @@ In our examples, the protocol was difficult to **find** (the loops),
 difficult to **access** (pay wall), and not **reusable** as it lacked the necessary details (dead-end).
 
 In the second example the data were not **interoperable** and **reusable**
-as their were only available as a figure graph.
+as they were only available as a figure graph.
 
-To avoid such problems FAIR principles were designed.
+The FAIR principles help us to avoid such problems.
 
 ![Figure 2. FAIR principles](../fig/FAIR.png)
-After [SangyaPundir](https://commons.wikimedia.org/wiki/File:FAIR_data_principles.jpg)
+From [SangyaPundir](https://commons.wikimedia.org/wiki/File:FAIR_data_principles.jpg)
 
 > ## FAIR Principles
 >
