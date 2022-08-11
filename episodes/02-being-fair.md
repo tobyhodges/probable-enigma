@@ -16,15 +16,17 @@ keypoints:
 ---
 (5 min teaching)
 
-We have seen how early adoption of good data management practices can benefit your team and institution.
+We have seen how early adoption of good research data management practices can benefit your team and institution.
 The wide adoption of Open Access principles has resulted in access
 to recent biomedical publications becoming far easier. 
-Unfortunately, the same cannot be said about data and software
-that accompanies such publications.
+Unfortunately, the same cannot be said about research data and software
+that accompanies such publications. 
 
-> ## What is data
+> ## What is research data? 
+> "Research data are collected, observed or generated for the purpose of analysis, to produce and validate original research results... [ie] whatever is necessary to verify or reproduce research findings, or to gain a richer understanding of them"
+> [Research Data MANTRA - Research data in context, University of Edinburgh](https://mantra.ed.ac.uk/) 
 >
-> Although scientific data is a very broad term, we still encounter
+> Although scientific data comes in all shapes and sizes, we still encounter
 > groups who (wrongly) believe they do not have data!
 > Data does not mean only Excel files with recorded measurements from a machine.
 > Data also includes:
@@ -201,7 +203,7 @@ Or domain specific, for example:
 *We will cover repositories in more details in a later episode.*
 
 
-> ## What are persistent identifiers (PIDs)
+> ## What are persistent identifiers (PIDs)?
 >
 > A persistent identifier is a long-lasting reference to a digital resource.
 > Typically it has two components:
