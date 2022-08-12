@@ -41,7 +41,7 @@ that accompanies such publications.
 Let's have a look how challenging it can be to access and use
 data from published biological papers.
 
-> ## Exercise 1: Impossible protocol (5 + 3 min)
+> ## Exercise 1a: Impossible protocol (5 + 3 min)
 >
 > You need to do a western blot to identify Titin proteins,
 > the largest proteins in the body, with a molecular weight of 3,800 kDa.
@@ -76,7 +76,7 @@ data from published biological papers.
 > {: .solution}
 {: .challenge}
 
-> ## Impossible numbers
+> ## Exercise 1b: Impossible average
 >
 > Ikram 2014 (https://doi.org/10.1093/jxb/err244) paper contains data about various metabolites in
 > different accessions (genotypes) of Arabidopsis plant. 
@@ -89,7 +89,7 @@ data from published biological papers.
 >
 {: .challenge}
 
-> ## Impossible numbers
+> ## Exercise 1c: Impossible numbers
 >
 > Systems biologists usually require raw numerical data to build their models.
 > Take a look at the following example: Try to find the numerical data behind the
@@ -99,12 +99,12 @@ data from published biological papers.
 > * Hint 1: Materials and methods describe quantification procedure
 > * Hint 2: Supporting Information or Supplementary Materials sections often contain data files.
 >
-> How easy it was?
+> How easy was it?
 >
 >
 {: .challenge}
 
-> ## Impossible resource/link
+> ## Exercise 1d: Impossible resource/link
 >
 > RNA-seq (transcriptomics) data is usually deposited in online repositories such as [SRA](https://www.ncbi.nlm.nih.gov/sra) or [ArrayExpress](https://www.ebi.ac.uk/arrayexpress/).
 > Your task is to find the link to the repository of the raw RNA-seq data in [Li et al., Genes Dev. 2012](http://genesdev.cshlp.org/content/26/8/785.long).
