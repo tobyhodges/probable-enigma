@@ -45,10 +45,14 @@ data from published biological papers.
 >
 > You need to do a western blot to identify Titin proteins,
 > the largest proteins in the body, with a molecular weight of 3,800 kDa.
-> You found an antibody sold by Sigma Aldrich that has been validated
-> in western blots and immunofluorescence. Sigma Aldrich lists the
+> You found a Titin-specific antibody sold by Sigma Aldrich that has been validated
+> in western blots and immunofluorescence ('SAB1400284'). Sigma Aldrich lists the
 > [Yu et al., 2019](https://doi.org/10.1002/acn3.50831)
-> paper as reference.
+> paper as reference. 
+<!-- 
+For reference, the page on the Sigma website which actually cited the Meng Yu paper is: 
+https://www.sigmaaldrich.com/GB/en/product/sigma/sab1400284
+-->
 >
 > Find details of how to separate and transfer this large protein in
 > the reference paper.
@@ -63,7 +67,7 @@ data from published biological papers.
 >>  * Ref 17 will lead you to [this
 >>     paper](https://doi.org/10.1002/ana.24102), which first of all is
 >>     not Open Access
->>  * Access the paper through your institutions (if you can) and find
+>>  * Access the paper and find
 >>     the 'Western Blotting' protocol on page 232 which will show the
 >>     following (Screenshot from the methods section from [Evilä et al 2014](https://doi.org/10.1002/ana.24102)):
 >>  * ![Figure 1. Impossible Protocol](../fig/impossible_protocol.png)
@@ -78,7 +82,7 @@ data from published biological papers.
 
 > ## Exercise 1b: Impossible average
 >
-> Ikram 2014 (https://doi.org/10.1093/jxb/err244) paper contains data about various metabolites in
+> [Ikram 2014](https://doi.org/10.1093/jxb/err244) paper contains data about various metabolites in
 > different accessions (genotypes) of Arabidopsis plant. 
 > You would like to calculate average nitrogen content in plants grown under normal and nitrogen 
 > limited conditions. 
@@ -87,6 +91,15 @@ data from published biological papers.
 > * Hint 1. Data are in Supplementary data   
 > * Hint 2. Search for nitrogen in paper text to identify the correct data column.  
 >
+>> ## Solution
+>> 
+>> * Download the supplementary data zip file. 
+>> * Open the PDF file.  
+>> * Copy and paste the data one page at a time. 
+>> * Whether trying to import the data to CSV, Excel, R, python or any other statistical package, this source is in an incredibly inconvenient format. 
+>> * ![Figure 1b. Impossible average](../fig/data_pasted_into_excel_Screenshot.png)
+>> 
+> {: .solution}
 {: .challenge}
 
 > ## Exercise 1c: Impossible numbers
