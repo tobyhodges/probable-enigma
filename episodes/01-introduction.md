@@ -3,7 +3,7 @@ title: "Better research by better sharing"
 teaching: 20
 exercises: 20
 questions:
-- "Who are we?"
+- "Who are today's trainers?"
 - "Why should you know about Open Science and Data Management?"
 - "Why should you adopt good data management practices?"
 objectives:
@@ -11,9 +11,9 @@ objectives:
 - "Understand how you shape the future of research"
 - "Understand your responsibilities to your subordinates"
 - "Understand the changes triggered by the DORA agreement" 
-key points:
+keypoints:
 - "You are a power figure"
-- "You need to permit your 'minions' to be ready for the future"
+- "You need to give your 'minions' both practical support and leadership to help them to be equipped for Open Science going forward"
 - "Remember, your group can do better research if you plan to share your outputs!"
 ---
 
@@ -30,7 +30,7 @@ We are very pleased to have you with us.
 
 > ## Today's Trainers
 >
-> To begin the class, each Trainer should give a brief introduction of themselves.
+> To begin the class, each Trainer should briefly introduce themself.
 >
 {: .discussion}
 
@@ -41,9 +41,9 @@ We are very pleased to have you with us.
 > Before we begin let's explain how to use the tools:
 > * Raising hands
 > * Yes/No sticker
-> * Chatroom for links not for jokes
+> * Chatroom for sharing info such as links 
 > * Breakout rooms, leaving and rejoining
-> * using pad, answering questions in pad
+> * using Etherpad, answering questions in the Etherpad
 > * where to find things
 > If needed, check the pre workshop setup, ask to report problems
 > and help at a break or after the session.

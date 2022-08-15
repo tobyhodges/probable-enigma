@@ -3,11 +3,11 @@ title: "Being FAIR"
 teaching: 20
 exercises: 10
 questions:
-- "How to get more value from your own data?"
+- "How can you get more value from your own data?"
 - "What are the FAIR guidelines?"
 - "Why does being FAIR matter?"
 objectives:
-- "Recognize typical issues that prevent data re-use"
+- "Recognise typical issues that prevent data re-use"
 - "Understand FAIR principles"
 - "Know steps for achieving FAIR data"
 keypoints:
