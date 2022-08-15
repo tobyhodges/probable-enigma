@@ -66,8 +66,8 @@ https://www.sigmaaldrich.com/GB/en/product/sigma/sab1400284
 >>
 >>  * Ref 17 will lead you to [this
 >>     paper](https://doi.org/10.1002/ana.24102), which first of all is
->>     not Open Access
->>  * Access the paper and find
+>>     not Open Access. Which not only means that some users won't be able to read it, but even those that can will still be subject to restrictions on sharing content from it. 
+>>  * Access the paper if you can (you may need to login to an institutional account) and find
 >>     the 'Western Blotting' protocol on page 232 which will show the
 >>     following (Screenshot from the methods section from [Evilä et al 2014](https://doi.org/10.1002/ana.24102)):
 >>  * ![Figure 1. Impossible Protocol](../fig/impossible_protocol.png)
