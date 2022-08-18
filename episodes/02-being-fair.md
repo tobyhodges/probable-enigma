@@ -66,7 +66,7 @@ https://www.sigmaaldrich.com/GB/en/product/sigma/sab1400284
 >>
 >>  * Ref 17 will lead you to [this
 >>     paper](https://doi.org/10.1002/ana.24102), which first of all is
->>     not Open Access. Which not only means that some users won't be able to read it, but even those that can will still be subject to restrictions on sharing content from it. 
+>>     not Open Access. Which not only means that some users won't be able to read it, but even those that can access it will still be subject to restrictions on sharing content from it. 
 >>  * Access the paper if you can (you may need to login to an institutional account) and find
 >>     the 'Western Blotting' protocol on page 232 which will show the
 >>     following (Screenshot from the methods section from [Evilä et al 2014](https://doi.org/10.1002/ana.24102)):
@@ -96,8 +96,8 @@ https://www.sigmaaldrich.com/GB/en/product/sigma/sab1400284
 >> * Download the supplementary data zip file. 
 >> * Open the PDF file.  
 >> * Copy and paste the data one page at a time. 
->> * Whether trying to import the data to CSV, Excel, R, python or any other statistical package, this source is in an incredibly inconvenient format. 
->> * ![Figure 1b. Impossible average](../fig/data_pasted_into_excel_Screenshot.png)
+>> * Whether trying to import the data to CSV, Excel, R, python or any other statistical package, this source is in an incredibly inconvenient format, as you can see in this screenshot showing what happened when we tried to copy-and-paste the data into Excel:  
+>>  ![Figure 1b. Impossible average](../fig/data_pasted_into_excel_Screenshot.png)
 >> 
 > {: .solution}
 {: .challenge}
@@ -106,22 +106,37 @@ https://www.sigmaaldrich.com/GB/en/product/sigma/sab1400284
 >
 > Systems biologists usually require raw numerical data to build their models.
 > Take a look at the following example: Try to find the numerical data behind the
-> graph shown in [Figure 6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC166576/figure/F6/)
-> which demonstrates changes in levels of phytochrome proteins from [Sharrock RA and Clack T, 2002](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC166576/).
+> graph shown underneath the photo of the blots in [Figure 6A](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC166576/figure/F6/) of [Sharrock RA and Clack T, 2002](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC166576/) , which demonstrates changes in levels of phytochrome proteins.
 >
-> * Hint 1: Materials and methods describe quantification procedure
-> * Hint 2: Supporting Information or Supplementary Materials sections often contain data files.
+> * Hint 1: The 'Materials and methods' section describes the quantification procedure
+> * Hint 2: 'Supporting Information' or 'Supplementary Materials' sections often contain data files. 
+> * Hint 3: It is considered good practice for papers to include a 'Data Availability' statement. 
 >
-> How easy was it?
->
+>> ## Solution 
+>> How easy was it? :-) 
+>> 
+>> It appears the authors have not made the figures available anywhere, not even hidden in a supplementary information section. 
+>> 
+>> Help your readers by depositing your data in an archive and including a Data Availability statement containing the data DOI in your papers! 
+>>
+> {: .solution}
+
 >
 {: .challenge}
 
-> ## Exercise 1d: Impossible resource/link
+> ## Exercise 1d: Perplexing resource/link
 >
-> RNA-seq (transcriptomics) data is usually deposited in online repositories such as [SRA](https://www.ncbi.nlm.nih.gov/sra) or [ArrayExpress](https://www.ebi.ac.uk/arrayexpress/).
-> Your task is to find the link to the repository of the raw RNA-seq data in [Li et al., Genes Dev. 2012](http://genesdev.cshlp.org/content/26/8/785.long).
-> Can you find it anywhere?
+> RNA-seq (transcriptomics) data is usually deposited in online repositories such as [SRA - Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra) or [ArrayExpress](https://www.ebi.ac.uk/biostudies/arrayexpress) within the EBI's BioStudies database. 
+> 
+> Your task is to find the link to the repository containing the raw RNA-seq data described in [Li et al., Genes Dev. 2012](http://genesdev.cshlp.org/content/26/8/785.long).
+> Can you find it anywhere? 
+> * Hint: Try Ctrl + F to use your browser's search function to search for the word 'data'. 
+> 
+>> ## Solution
+>> Puzzlingly, the authors have chosen to include the SRA accession number in the final sentence of the 'Acknowledgments' section. 
+>> Perplexingly, searching the SRA website with the accession number brings back twelve results at the time of writing, none of which contain the cited accession number in them, but they appear to correspond to an experiment with a title and institutional affiliation which match the journal article, as you can see from this screenshot:  
+>>  ![Figure 1d. Perplexing resource](../fig/results_SRA_search_Screenshot 2022-08-18 180211.png)
+> {: .solution}
 >
 {: .challenge}
 
