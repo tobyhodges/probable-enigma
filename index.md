@@ -13,6 +13,8 @@ Leading researchers must become conversant with the Open Science ethos, the Repr
 and FAIR (Findable Accessible Interoperable Reusable) principles to recognize or evaluate them in their peers, 
 to mentor their team members and to benefit from efficient data management. 
 
+## Target audience
+
 This one-day workshop is aimed at established PIs and institutional leaders who set policy and drive changes. 
 
 It will set the foundations of Open Science, FAIR principles and what they mean for biomedical research practices. 
@@ -25,7 +27,15 @@ both data re-use and work efficiency.
 
 > ## Prerequisites
 >
-> FIXME
+> You don't need to have prior knowledge of data management or programming skills.
+> You do need to be willing to learn how to apply FAIR principles in your research.
+> 
+> ### We expect you to:
+> * have a bio/medical background
+> * know basics of scientific communication, publications, citations and their importance for careers in life science research
+> * familiarity with spreadsheets (Excel)
+> * familiarity with online bioscience data resources 
+> 
 {: .prereq}
 
 {% include links.md %}
