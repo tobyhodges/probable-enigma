@@ -70,10 +70,10 @@ https://www.sigmaaldrich.com/GB/en/product/sigma/sab1400284
 >>  * Access the paper if you can (you may need to login to an institutional account) and find
 >>     the 'Western Blotting' protocol on page 232 which will show the
 >>     following (Screenshot from the methods section from [Evilä et al 2014](https://doi.org/10.1002/ana.24102)):
->>  * ![Figure 1. Impossible Protocol](../fig/impossible_protocol.png)
->>  * "Western blotting were performed according to standard methods." -
+>>  * ![screenshot of excerpt of the paper stating that standard methods were used without any further detail](../fig/impossible_protocol.png)
+>>  * The paper says "..Western blotting [was] performed according to standard methods." -
 >>     with no further reference to these standard methods, describing
->>     these methods, or supplementary material detailing these methods
+>>     these methods, nor supplementary material detailing these methods. 
 >>  * This methodology is unfortunately a true dead end and we thus
 >>      can't easily continue our experiments!
 >>
@@ -135,7 +135,7 @@ https://www.sigmaaldrich.com/GB/en/product/sigma/sab1400284
 >> ## Solution
 >> Puzzlingly, the authors have chosen to include the SRA accession number in the final sentence of the 'Acknowledgments' section. 
 >> Perplexingly, searching the SRA website with the accession number brings back twelve results at the time of writing, none of which contain the cited accession number in them, but they appear to correspond to an experiment with a title and institutional affiliation which match the journal article, as you can see from this screenshot:  
->>  ![Figure 1d. Perplexing resource](../fig/results_SRA_search_Screenshot 2022-08-18 180211.png)
+>>  ![screenshot showing results of a search of the SRA website using the cited accession number](../fig/results_SRA_search_Screenshot_2022-08-18_180211.png)
 > {: .solution}
 >
 {: .challenge}
@@ -158,19 +158,19 @@ The above examples illustrate the typical challenges in accessing research
 data and software.  
 Firstly, data/protocols/software often do not have an identity
 of their own, but only accompany a publication.  
-Second, they are not easily accessible or reusable, for example, all the details are inside one supporting information PDF file. 
-Such file includes "printed" numerical table or even source code, both of which need to be "re-typed" if someone would like to use them. Data are shared in proprietary file format specific to a particular vendor and not accessible if one does not have a particular software that accompanies the equipment. Finally, data files are provided without detailed description
+Second, they are not easily accessible or reusable; for example, when all the details are inside one 'supporting information' PDF file. 
+Such files sometimes include "printed" numerical tables or even source code, both of which need to be "re-typed" if someone would like to use them. Data are shared in proprietary file formats specific to a particular vendor and not accessible if one does not have a particular software package that accompanies the equipment the authors used. Finally, data files are often provided without any detailed description
 other than the whole article text.
 
 In our examples, the protocol was difficult to **find** (the loops),
 difficult to **access** (pay wall), and not **reusable** as it lacked the necessary details (dead-end).
 
-In the second example the data were not **interoperable** and **reusable**
+In exercise 1b, the data were not **interoperable** or **reusable**
 as they were only available as a figure graph.
 
 The FAIR principles help us to avoid such problems.
 
-![Figure 2. FAIR principles](../fig/FAIR.png)
+![Figure 2. logo spelling out F, Findable, A, Accessible, I, Interoperable, R, Re-usable](../fig/FAIR.png)
 From [SangyaPundir](https://commons.wikimedia.org/wiki/File:FAIR_data_principles.jpg)
 
 > ## FAIR Principles
@@ -184,37 +184,37 @@ From [SangyaPundir](https://commons.wikimedia.org/wiki/File:FAIR_data_principles
 > (mostly due to the lack of user friendly tools that could help
 > deal with standards and structured metadata).
 >
-> **Findable**:  Easy to find data and metadata for
-> both humans and computers.
+> **Findable**:  It should be easy for both humans and computers to find data and metadata. 
 > Automatic and reliable discovery of datasets and services depends
 > on machine-readable persistent identifiers (PIDs) and metadata.
 >
-> **Accessible**: (Meta)data should be retrievable by their identifier using
-> a standardized and open communications protocol (including authentication
+> **Accessible**: (Meta)data should be retrievable by their identifiers using
+> a standardised and open communications protocol (including authentication
 > and authorisation). Metadata should be available even when the data
 > are no longer available.
 >
 > **Interoperable**: Data should be able to be combined with and used
 > with other data or tools. The format of the data should be open and
-> interpretable for various tools. It applies both to data and
-> metadata, (meta)data should use vocabularies that follow FAIR principles.
+> interpretable for various tools. This principle, just like the others, applies both to data and
+> metadata; (meta)data should use vocabularies that follow FAIR principles.
 >
-> **Re-usable**: FAIR aims at optimizing the reuse of data.
+> **Re-usable**: FAIR aims to optimise the reuse of data.
 > Metadata and data should be well-described so that they can be replicated
-> and/or combined in different settings. The reuse of (meta)data
+> and/or combined in different settings. The conditions under which reuse of (meta)data is allowed, 
+> or the absence of conditions, 
 > should be stated with clear and accessible license(s).
 >
 {: .callout}
 
 
-## FAIR in biological practice
+## What do the components of FAIR mean in (biological) practice?
 
 #### Findable & Accessible
 
-Deposit data to an external, reputable public repository.
+Deposit data to a trustworthy public repository.
 
-Repositories provide persistent identifiers (PIDs), catalogue options,
-advanced metadata searching, and download statistics. Some repositories can also host private data or provide embargo periods, meaning access to all data can be delayed.
+Repositories provide persistent identifiers (PIDs), controlled vocabularies for efficient cataloguing, 
+advanced metadata searching and download statistics. Some repositories can also host supported curation, digital preservation, private data or provide embargo periods, meaning access to all data can be delayed or restricted.
 
 There are general "data agnostic" repositories, for example:
 * [Dryad](http://datadryad.org),
@@ -228,7 +228,7 @@ Or domain specific, for example:
 * [MetaboLights](https://www.ebi.ac.uk/metabolights/) metabolomics data
 * [GitHub](https://github.com/) for code.
 
-*We will cover repositories in more details in a later episode.*
+*We will cover repositories in more detail in a later episode.*
 
 
 > ## What are persistent identifiers (PIDs)?
@@ -239,20 +239,20 @@ Or domain specific, for example:
 > * and a unique identifier (that distinguishes the resource or concept from others).
 >
 > Persistent identifiers aim to solve the problem of the persistence of accessing cited resource,
-> particularly in the field of academic literature. All too often, web addresses (links) changes over time
+> particularly in the field of academic literature. All too often, web addresses (links) change over time
 > and fail to take you to the referenced resource you expected.
 >
 > There are several services and technologies (schemes) that provide PIDs
-> for objects (whether digital, physical or abstract).
+> for objects (whether digital, physical or abstract). 
 > One of the most popular is **Digital Object Identifier [(DOI)](https://www.doi.org/)**,
-> recognizable by the prefix doi.org in the web links.
+> recognisable by the prefix doi.org in the web links.
 > For example: [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
-> resolves to the location of the paper that describes FAIR principles.
+> resolves to the location of the paper that describes the FAIR principles. 
 >
 > Public repositories often maintain web addresses of their content in a stable form
 > which follow the convention http://repository.adress/identifier;
 > these are often called permalinks.
-> For well establish services, permalinks can be treated as PIDs.
+> For well established services, permalinks can be treated as PIDs.
 >
 > For example: [http://identifiers.org/SO:0000167](http://identifiers.org/SO:0000167) resolves to a page
 > defining promoter role, and can be used to annotate part of a DNA sequence
@@ -349,11 +349,11 @@ or [Apache license](http://www.apache.org/licenses/).
 
 ## FAIR vs Open Science (3 min teaching)
 
-**FAIR does not mean Open**. Actually, FAIR guideline only requires
-that the metadata record is always accessible.
+**FAIR does not mean Open**. Actually, FAIR guidelines only require
+that the metadata record and not necessarily the data is always accessible.
 For example, the existence of the data can be known (their metadata),
 the data can have easy to use PID to reference them, but the actual
-data files can only be downloaded after the login and authorization.
+data files may be restricted so as to be downloaded only after login and authorization.
 
 However, if data are already in the FAIR form, i.e. accessible over the internet,
 in interoperable format and well documented, then it is almost
