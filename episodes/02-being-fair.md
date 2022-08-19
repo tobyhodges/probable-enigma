@@ -177,7 +177,7 @@ From [SangyaPundir](https://commons.wikimedia.org/wiki/File:FAIR_data_principles
 >
 > In 2016, the [FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
 > were published in Scientific Data.
-> The original guideline focused on "machine-actionability" -
+> The original guidelines focused on "machine-actionability" -
 > the ability of computer systems to operate on data with
 > minimal human intervention. However, now the focus has shifted
 > to making data accessible from a human perspective, and not an automated one
@@ -202,7 +202,9 @@ From [SangyaPundir](https://commons.wikimedia.org/wiki/File:FAIR_data_principles
 > Metadata and data should be well-described so that they can be replicated
 > and/or combined in different settings. The conditions under which reuse of (meta)data is allowed, 
 > or the absence of conditions, 
-> should be stated with clear and accessible license(s).
+> should be stated with clear and accessible license(s). 
+> 
+> [The FAIR Principles](https://www.go-fair.org/fair-principles/)
 >
 {: .callout}
 
