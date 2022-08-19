@@ -301,18 +301,18 @@ or [Apache license](http://www.apache.org/licenses/).
 > ## Copyright and data (extra details)
 >
 > Software code (the text) automatically gets the default
-> copyright protection
+> copyright protection by law, 
 > which prevents others from copying or modifying it.
-> Only by adding the explicit license you can permit re-use by others.
+> By adding an explicit license, you can declare that you permit re-use by others. By removing the need for others to contact you to ask your permission, you not only save everybody time but you also remove a barrier to equality and diversity, since all potential users can see the dataset is available for them (rather than having a situation where unequal social capital and bias, real or perceived, could hamper access).
 >
 > Data, being factual, cannot be copyrighted. **So why, do we need a license?**
 >
 > While the data itself cannot be copyrighted,
-> the way how it is presented can be. The extend to which it is protected needs ultimately
+> the way it is presented can be. The extent to which it is protected needs ultimately
 > to be settled by the court.
 >
-> The "good actors" will restrain from using your data to avoid "court" risks.
-> The "bad actors" will either ignore the risk or can afford the lawyers
+> The "good actors" will refrain from using your data to avoid "court" risks.
+> But the "bad actors" will either ignore the risk or can afford the lawyers' 
 > fees.
 >
 {: .callout}
@@ -383,8 +383,8 @@ website.
 > * Data from failed experiments are not re-usable.
 > * Data should always be converted to Excel or .csv files in order to be FAIR.
 > * A DOI of a dataset helps in getting credit.
-> * FAIR data are peer reviewed.
-> * FAIR data accompany a publication.
+> * FAIR data must be peer reviewed.
+> * FAIR data must accompany a publication.
 >
 >> ## Solution
 >> * F in FAIR stands for free. F
@@ -394,9 +394,9 @@ website.
 >> * Group website is a good place to share your data. F
 >> * Data from failed experiments are not re-usable. F
 >> * Data should always be converted to Excel or .csv files in order to be FAIR. F
->> * A DOI of a dataset helps in getting credit. T
->> * FAIR data are peer reviewed. F
->> * FAIR data accompany a publication. F
+>> * A DOI of a dataset helps in getting credit. ***TRUE***
+>> * FAIR data must be peer reviewed. F
+>> * FAIR data must accompany a publication. F
 >>
 > {: .solution}
 {: .challenge}
