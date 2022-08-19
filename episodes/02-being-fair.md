@@ -218,17 +218,7 @@ Deposit data to a trustworthy public repository.
 Repositories provide persistent identifiers (PIDs), controlled vocabularies for efficient cataloguing, 
 advanced metadata searching and download statistics. Some repositories can also host supported curation, digital preservation, private data or provide embargo periods, meaning access to all data can be delayed or restricted.
 
-There are general "data agnostic" repositories, for example:
-* [Dryad](http://datadryad.org),
-* [Zenodo](http://zenodo.org),
-* [FigShare](http://figshare.com),
-* [Dataverse](http://thedata.org).
-
-Or domain specific, for example:
-* [UniProt](https://www.uniprot.org/) protein data,
-* [GenBank](https://www.ncbi.nlm.nih.gov/genbank/) sequence data,
-* [MetaboLights](https://www.ebi.ac.uk/metabolights/) metabolomics data
-* [GitHub](https://github.com/) for code.
+There are general "data agnostic" repositories, such as Zenodo, or domain specific ones, for example UniProt. 
 
 *We will cover repositories in more detail in a later episode.*
 

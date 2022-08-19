@@ -12,7 +12,7 @@ objectives:
 - "Find a suitable repository."
 keypoints:
 - "Repositories are the main means for sharing research data."
-- "You should use data-type specific repository whenever possible."
+- "You should use a data-type specific repository whenever possible."
 - "Repositories are the key players in data reuse."
 ---
 
@@ -22,10 +22,10 @@ keypoints:
 Research data repositories are online repositories that enable the preservation, curation and publication of research 'products'. These repositories are mainly used to deposit research 'data'. However, the scope of the repositories is broader as we can also deposit/publish 'code' or 'protocols'. 
 
 There are general "data agnostic" repositories, for example:
-* [Dryad](http://datadryad.org),
-* [Zenodo](http://zenodo.org),
-* [FigShare](http://figshare.com),
-* [Dataverse](http://thedata.org).
+* [Dryad](https://datadryad.org),
+* [Zenodo](https://zenodo.org),
+* [FigShare](https://figshare.com),
+* [Harvard Dataverse](https://dataverse.harvard.edu).
 
 Or domain specific, for example:
 * [UniProt](https://www.uniprot.org/) protein data,
