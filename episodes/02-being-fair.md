@@ -120,8 +120,6 @@ https://www.sigmaaldrich.com/GB/en/product/sigma/sab1400284
 >> Help your readers by depositing your data in an archive and including a Data Availability statement containing the data DOI in your papers! 
 >>
 > {: .solution}
-
->
 {: .challenge}
 
 > ## Exercise 1d: Perplexing resource/link

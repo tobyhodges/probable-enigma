@@ -41,9 +41,9 @@ Research outputs should be submitted to discipline/domain-specific repositories 
 >
 {: .testimonial}
 
-> ## Let's check public general record and what makes it FAIR
+> ## Let's check a public general record and what makes it FAIR
 >
-> Have a look at the following record for data set in Zenodo repository:
+> Have a look at the following record for a dataset in Zenodo repository:
 > [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5045374.svg)](https://doi.org/10.5281/zenodo.5045374)  
 > What elements make it FAIR?    
 >   
@@ -77,17 +77,17 @@ Research outputs should be submitted to discipline/domain-specific repositories 
 >
 > Now, skim through the data set description (HINT there is also a README), 
 > try to judge the following:
-> *	It is clear what the content of the data set is:
-> *	It is clear why the data could be used (ie what for):
-> *	It is well described:
-> *	How confident will you be to work with this data set:
-> *	How easy it is to access the data set content:
-> *	Your team datasets are equally well described (or better):
+> *	Is it clear what the content of the data set is? 
+> *	Is it clear why the data could be used (ie what for)? 
+> *	Is it well described? 
+> *	How confident will you be to work with this dataset? 
+> *	How easy is it to access the dataset content? 
+> *	Are your team's datasets equally well described (or better)? 
 >
 {: .challenge}
 
 
-> ## Exercise 2: Datasets discovery (4 min instructur should search over)  
+> ## Exercise 2: Datasets discovery (4 min instructor should search over)  
 >  
 > Try to find either: 
 > * data sets related to neuromuscular junction in Zenodo
@@ -205,7 +205,7 @@ An interesting take can be found at Peter Murray-Rust's blog post [Criteria for 
 
 
 > ## Attribution
-> Content of this episode was adapted or inspired by:.
+> Content of this episode was adapted from or inspired by:
 > - [FAIR principles](https://www.go-fair.org/fair-principles/)
 > - [DCC - How can we evaluate data repositories?](https://www.dcc.ac.uk/news/how-can-we-evaluate-data-repositories-pointers-dryaduk)
 > - [Criteria for successful repositories](https://blogs.ch.cam.ac.uk/pmr/2011/08/19/criteria-for-successful-repositories/)
