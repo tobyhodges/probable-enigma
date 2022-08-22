@@ -43,7 +43,8 @@ Research outputs should be submitted to discipline/domain-specific repositories 
 
 > ## Let's check a public general record and what makes it FAIR
 >
-> Have a look at the following record for a dataset in Zenodo repository:
+> Have a look at the following record for a dataset in Zenodo repository:  
+> Boehm et al. (2020). Confocal micrographs and complete dataset of neuromuscular junction morphology of pelvic limb muscles of the pig (Sus scrofa) [Data set]. In Journal of Anatomy (Vol. 237, Number 5, pp. 827–836). Zenodo.  
 > [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5045374.svg)](https://doi.org/10.5281/zenodo.5045374)  
 > What elements make it FAIR?    
 > Let's go through each of the [FAIR principles](https://www.go-fair.org/fair-principles):  
@@ -88,7 +89,7 @@ Research outputs should be submitted to discipline/domain-specific repositories 
 {: .challenge}
 
 
-> ## Exercise 2: Datasets discovery (4 min instructor should search over)  
+> ## Exercise 1b: Datasets discovery (4 min instructor should search over)  
 >  
 > Try to find either: 
 > * data sets related to neuromuscular junction in Zenodo
@@ -101,8 +102,8 @@ Research outputs should be submitted to discipline/domain-specific repositories 
 > *	They are well described:
 >
 > > ## Solution
-> > Zenodo is a good place to keep your data separate from paper. It gives access to all files, allowing you to cite the data as well (or instead of) the paper.  
-> > However, it is not good for discovery, and does not enforce most metadata! 
+> > Zenodo is a good place to keep your data separate from your paper. It gives access to all files, allowing you to cite the data as well (or instead of) the paper.  
+> > However, it is not ideal for discovery, and does not enforce most metadata fields! 
 > > For example, searching for 'neuromuscular junction' brings also [Surveys of Forest Birds on Puerto Rico, 2015](https://zenodo.org/record/1137170) 
 > >   
 > {: .solution}
@@ -112,7 +113,7 @@ Research outputs should be submitted to discipline/domain-specific repositories 
 <br>
 
 
-> ## Exercise 3. Domain specific repositories (5 + 2 min).  
+> ## Exercise 2. Domain specific repositories (5 + 2 min).  
 >  
 > Select one of the following repositories based on your expertise/interests:  
 >  
@@ -129,9 +130,19 @@ Research outputs should be submitted to discipline/domain-specific repositories 
 >> Some advantages are:
 >> *   The repository is more relevant to your discipline than a generalist one.
 >> *   Higher exposure (people looking for those specific types of data will usually first look at the specific repository).
->> *   Higher number of citations (see above).
+>> *   Higher number of citations (see below).
 > {: .solution}
 {: .challenge}
+
+## Citation Advantage
+Sharing data openly increases the number of citations of the corresponding publications - the supporting evidence base is growing: 
+* Report: "The Open Data Citation Advantage"
+SPARC Europe, February 2017
+https://sparceurope.org/open-data-citation-advantage/ 
+Shows that papers supported by openly-shared data get more citations. Includes evidence from a wide range of fields. 
+* “The citation advantage of linking publications to research data” (July 2019)
+Colavizza et al. A https://arxiv.org/abs/1907.02565 
+Shows that papers which linked to their data had up to 25% greater citation impact, based on comparing half a million articles from PLoS and BMC.  
 
 
 > ## Extra features
@@ -209,7 +220,10 @@ An interesting take can be found at Peter Murray-Rust's blog post [Criteria for 
 > Content of this episode was adapted from or inspired by:
 > - [FAIR principles](https://www.go-fair.org/fair-principles/)
 > - [DCC - How can we evaluate data repositories?](https://www.dcc.ac.uk/news/how-can-we-evaluate-data-repositories-pointers-dryaduk)
-> - [Criteria for successful repositories](https://blogs.ch.cam.ac.uk/pmr/2011/08/19/criteria-for-successful-repositories/)
+> - [Criteria for successful repositories](https://blogs.ch.cam.ac.uk/pmr/2011/08/19/criteria-for-successful-repositories/)  
+>  - [The Open Data Citation Advantage, SPARC Europe, Feb 2017](https://sparceurope.org/open-data-citation-advantage/)   
+>  - [The citation advantage of linking publications to research data, Jul 2019, Colavizza et al. A](https://arxiv.org/abs/1907.02565)  
+> 
 {: .callout}
 
 
