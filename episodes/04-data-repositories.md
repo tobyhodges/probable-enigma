@@ -46,13 +46,14 @@ Research outputs should be submitted to discipline/domain-specific repositories 
 > Have a look at the following record for a dataset in Zenodo repository:
 > [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5045374.svg)](https://doi.org/10.5281/zenodo.5045374)  
 > What elements make it FAIR?    
->   
+> Let's go through each of the [FAIR principles](https://www.go-fair.org/fair-principles):  
+> 
 >   
 > Findable (persistent identifiers, easy to find data and metadata):  
-> - F1. (Meta)data are assigned a globally unique and persistent identifier - YES  
-> - F2. Data are described with rich metadata (defined by R1 below)- YES  
-> - F3. Metadata clearly and explicitly include the identifier of the data they describe - YES  
-> - F4. (Meta)data are registered or indexed in a searchable resource - YES  
+> - Principle F1. (Meta)data are assigned a globally unique and persistent identifier - YES  
+> - Principle F2. Data are described with rich metadata (defined by R1 below)- YES  
+> - Principle F3. Metadata clearly and explicitly include the identifier of the data they describe - YES  
+> - Principle F4. (Meta)data are registered or indexed in a searchable resource - YES  
 >   
 > Accessible (The (meta)data retrievable by their identifier using a standard web protocols):  
 > - A1. (Meta)data are retrievable by their identifier using a standardised communications protocol - YES  
@@ -196,9 +197,9 @@ An interesting take can be found at Peter Murray-Rust's blog post [Criteria for 
     
 > ## Exercise 5: Using repositories (5 min).
 > Discuss the following questions:
-> * Why is choosing a domain specific repositories over zenodo more FAIR?
-> * How can selecting a repository for your data as soon as an experiment is performed (or even before!) benefits your team research and helps data become FAIR?
-> * What to do if your publication contains multiple data types?
+> * Why is choosing (a) domain specific repository(ies) over Zenodo more FAIR?
+> * How can selecting a repository for your data as soon as an experiment is performed (or even before!) benefit your team's research and help data become FAIR?
+> * What is the FAIRest thing to do if your publication contains multiple data types?
 > * What is the most surprising thing you’ve learned today? 
 >
 {: .challenge}
