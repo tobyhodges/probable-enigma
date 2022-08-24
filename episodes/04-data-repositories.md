@@ -96,16 +96,16 @@ Research outputs should be submitted to discipline/domain-specific repositories 
 > * data sets of interest for you
 > 
 > Judge the following:
-> *	how easy it is to find similar or interesting data sets:
-> *	It is clear what the content of the other data sets are:
-> *	It is clear why the data could be used (ie what for):
-> *	They are well described:
+> *	How easy is it to find similar or interesting data sets? 
+> *	Is it clear what the content of the other data sets are? 
+> *	Is it clear why the data could be used (ie what for)? 
+> *	Are they well described? 
 >
-> > ## Solution
-> > Zenodo is a good place to keep your data separate from your paper. It gives access to all files, allowing you to cite the data as well (or instead of) the paper.  
-> > However, it is not ideal for discovery, and does not enforce most metadata fields! 
-> > For example, searching for 'neuromuscular junction' brings also [Surveys of Forest Birds on Puerto Rico, 2015](https://zenodo.org/record/1137170) 
-> >   
+>> ## Solution
+>> Zenodo is a good place to keep your data separate from your paper. It gives access to all files, allowing you to cite the data as well (or instead of) the paper.  
+>> However, it is not ideal for discovery, and does not enforce most metadata fields! 
+>> For example, searching for 'neuromuscular junction' brings also [Surveys of Forest Birds on Puerto Rico, 2015](https://zenodo.org/record/1137170) 
+>>
 > {: .solution}
 {: .challenge}
 
@@ -130,7 +130,9 @@ Research outputs should be submitted to discipline/domain-specific repositories 
 >> Some advantages are:
 >> *   The repository is more relevant to your discipline than a generalist one.
 >> *   Higher exposure (people looking for those specific types of data will usually first look at the specific repository).
->> *   Higher number of citations (see below).
+>> *   Higher number of citations (see below).  
+>>
+>>
 > {: .solution}
 {: .challenge}
 
@@ -154,7 +156,7 @@ Shows that papers which linked to their data had up to 25% greater citation impa
 (3 min teaching)
 As a general rule, your research needs to be deposited in discipline/data specific repository. If no specific repository can be found, then you can use a generalist repository. Having said this, there are tons of data repositories to choose from. Choosing one can be time consuming and challenging as well.
 So how do you go about finding a repository:
-- Check the publisher's / funder' recommended list of repositories, some of which can be found below:
+- Check your publisher's (if it's for a specific manuscript) or your funder(s)' recommended list(s) of repositories, some of which can be found below:
 	- [BioMed Central / Springer Nature](https://www.springernature.com/gp/authors/research-data-policy/recommended-repositories)
 	- [eLife](https://submit.elifesciences.org/html/elife_author_instructions.html#policies)
 	- [Elsevier](https://www.elsevier.com/about/policies/research-data)
@@ -177,15 +179,25 @@ So how do you go about finding a repository:
 
 > ## Exercise 4: Finding a repository (3 min).
 >
-> Using [Fairsharing](https://fairsharing.org/) or Registry of research data repositories [re3data](https://www.re3data.org/ )
+> Using [Fairsharing](https://fairsharing.org/) or Registry of research data repositories [re3data](https://www.re3data.org/ ) ... 
 > - Find a repo for flow cytometry data.  
 > - Find a recommended repo for Your favourite/chosen data type.  
 > 
 >> ## Solution  
->>  Note to instructor: Fairsharing gives few options, people may give different answer follow up why they selected particular ones. 
->> show genomoics query vs recommended by funders/BioRDM 
-> {: .solution}  
-{: .challenge}  
+<!-- >>  Note to instructor: Fairsharing gives few options, people may give different answer follow up why they selected particular ones. show genomoics query vs recommended by funders/BioRDM . 
+ -->
+>> Fairsharing lists over two hundred recommended databases. 
+>> Learners here today may have selected different databases from each other, that's fine!   
+>> The BioRDM team at University of Edinburgh recommends
+>> [FlowRepository](http://flowrepository.org/)
+>> and [ImmPort](http://www.immport.org/). 
+>>   
+>> Taking another research area: if you search for 'genomics' on FAIRsharing, you'll get a list of more than fifty recommended repositories.   
+>> Whereas PLoS provides a more biologically meaningful set of suggested Omics repositories, see screenshot below: 
+>>  ![screenshot of Omics section of PLoS webpage](../fig/omics-repos-recommended-by-PLoS_Screenshot.png)
+>>
+> {: .solution}
+{: .challenge}
 
 (7 min teaching including the discussion about repositories in Ex5)
 
