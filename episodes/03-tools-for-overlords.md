@@ -25,11 +25,20 @@ lab notebook.
 
 ![Git change log](../tools_screenshots/Git-ChangeLog.png)
 
-**
+*ChangeLog, screen presenting list of changes made to the project (with author and dates)*
 
+![Git entry documenting change](../tools_screenshots/Git-Change-OneFile.png)
 
-*After [Figure source](https://www.figure.link/)*
+*Change Entry details. Showing the description message, affected file and the nature of change marked in colors.  
+The red with - are sections which have been removed and the green with + are new content.*
 
+![View of readmefile](../tools_screenshots/Git-Change-Before.png)
+
+*The content of readme file before applying the changes from the change log entry above*
+
+![View of readmefile](../tools_screenshots/Git-Change-After.png)
+
+*The content of readme file after applying the changes from the change log entry above*
 
 I am episode intro
 
