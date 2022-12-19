@@ -16,6 +16,21 @@ keypoints:
 - ""
 ---
 
+Tools for organizing and sharing scientific data can be also be helpful when
+managing resources and peoples.
+
+Have a look some of the features of GitHub a version control system and Benchling an electronic
+lab notebook.
+
+
+![Git change log](../tools_screenshots/Git-ChangeLog.png)
+
+**
+
+
+*After [Figure source](https://www.figure.link/)*
+
+
 I am episode intro
 
 ## I am a section
