@@ -33,7 +33,7 @@ life_cycle: 'pre-alpha'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/fishtree-attempt/fair-for-leaders/'
+source: 'https://github.com/carpentries-incubator/fair-for-leaders'
 
 # Default branch of your lesson
 branch: 'main'
@@ -87,7 +87,6 @@ profiles:
 
 
 carpentry_description: Lesson Description
-url: https://preview.carpentries.org/fair-for-leaders
+url: 'https://carpentries-incubator.github.io/fair-for-leaders'
 analytics: carpentries
 lang: en
-workbench-beta: yes
