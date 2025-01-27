@@ -1,0 +1,303 @@
+---
+title: Public repositories
+teaching: 20
+exercises: 20
+---
+
+::::::::::::::::::::::::::::::::::::::: objectives
+
+- See the benefits of using research data repositories.
+- Differentiate between general and specific repositories.
+- Find a suitable repository.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::: questions
+
+- Where can I deposit datasets?
+- What are general data repositories?
+- How to find a repository?
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## What are research data repositories?
+
+(8 min teaching)
+Research data repositories are online repositories that enable the preservation, curation and publication of research 'products'. These repositories are mainly used to deposit research 'data'. However, the scope of the repositories is broader as we can also deposit/publish 'code' or 'protocols'.
+
+There are general "data agnostic" repositories, for example:
+
+- [Dryad](https://datadryad.org),
+- [Zenodo](https://zenodo.org),
+- [FigShare](https://figshare.com),
+- [Harvard Dataverse](https://dataverse.harvard.edu).
+
+Or domain specific, for example:
+
+- [UniProt](https://www.uniprot.org/) protein data,
+- [GenBank](https://www.ncbi.nlm.nih.gov/genbank/) sequence data,
+- [MetaboLights](https://www.ebi.ac.uk/metabolights/) metabolomics data
+- [GitHub](https://github.com/) for code.
+
+Research outputs should be submitted to discipline/domain-specific repositories whenever it is possible. When such a resource does not exist, data should be submitted to a 'general' repository.
+
+:::::::::::::::::::::::::::::::::::::  testimonial
+
+Research data repositories are a key resource to help in data FAIRification as they
+assure Findability and Accessibility.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::  callout
+
+## Let's check a public general record and what makes it FAIR
+
+Have a look at the following record for a dataset in Zenodo repository:  
+Boehm et al. (2020). Confocal micrographs and complete dataset of neuromuscular junction morphology of pelvic limb muscles of the pig (Sus scrofa) [Data set]. In Journal of Anatomy (Vol. 237, Number 5, pp. 827–836). Zenodo.  
+[![](https://zenodo.org/badge/DOI/10.5281/zenodo.5045374.svg){alt='DOI'}](https://doi.org/10.5281/zenodo.5045374)  
+What elements make it FAIR?  
+Let's go through each of the [FAIR principles](https://www.go-fair.org/fair-principles):
+
+Findable (persistent identifiers, easy to find data and metadata):
+
+- Principle F1. (Meta)data are assigned a globally unique and persistent identifier - YES
+- Principle F2. Data are described with rich metadata (defined by R1 below)- YES
+- Principle F3. Metadata clearly and explicitly include the identifier of the data they describe - YES
+- Principle F4. (Meta)data are registered or indexed in a searchable resource - YES
+
+Accessible (The (meta)data retrievable by their identifier using a standard web protocols):
+
+- A1. (Meta)data are retrievable by their identifier using a standardised communications protocol - YES
+- A2.  Metadata are accessible, even when the data are no longer available - YES
+
+Interoperable (The format of the data should be open and interpretable for various tools):
+
+- I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation. - YES
+- I2. (Meta)data use vocabularies that follow FAIR principles - PARTIALLY
+- I3. (Meta)data include qualified references to other (meta)data - YES
+
+Reusable (data should be well-described so that they can be replicated and/or combined in different settings, reuse states with a clear license):
+
+- R1. (Meta)data are richly described with a plurality of accurate and relevant attributes - YES
+  - R1.1. (Meta)data are released with a clear and accessible data usage license - YES
+  - R1.2. (Meta)data are associated with detailed provenance - YES
+  - R1.3. (Meta)data meet domain-relevant community standards - YES/PARTIALLY
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::  challenge
+
+## Exercise 1: Public general record (4 min)
+
+[![](https://zenodo.org/badge/DOI/10.5281/zenodo.5045374.svg){alt='DOI'}](https://doi.org/10.5281/zenodo.5045374)
+
+Now, skim through the data set description (HINT there is also a README),
+try to judge the following:
+
+- Is it clear what the content of the data set is?
+- Is it clear why the data could be used (ie what for)?
+- Is it well described?
+- How confident will you be to work with this dataset?
+- How easy is it to access the dataset content?
+- Are your team's datasets equally well described (or better)?
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::  challenge
+
+## Exercise 1b: Datasets discovery (4 min instructor should search over)
+
+Try to find either:
+
+- data sets related to neuromuscular junction in Zenodo
+- data sets of interest for you
+
+Judge the following:
+
+- How easy is it to find similar or interesting data sets?
+- Is it clear what the content of the other data sets are?
+- Is it clear why the data could be used (ie what for)?
+- Are they well described?
+
+:::::::::::::::  solution
+
+## Solution
+
+Zenodo is a good place to keep your data separate from your paper. It gives access to all files, allowing you to cite the data as well (or instead of) the paper.  
+However, it is not ideal for discovery, and does not enforce most metadata fields!
+For example, searching for 'neuromuscular junction' brings also [Surveys of Forest Birds on Puerto Rico, 2015](https://zenodo.org/record/1137170)
+
+:::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+<br>
+
+:::::::::::::::::::::::::::::::::::::::  challenge
+
+## Exercise 2. Domain specific repositories (5 + 2 min).
+
+Select one of the following repositories based on your expertise/interests:
+
+- Have a look at mRNAseq accession 'E-MTAB-7933' in [ArrayExpress](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-7933/)
+- Have a look at microscopy 'project-1101' in [IDR](https://idr.openmicroscopy.org/webclient/?show=project-1101)
+- Have a look at the synthethic part record 'SubtilinReceiver\_spaRK\_separated' within the 'bsu' collection in [SynBioHub](https://synbiohub.org/public/bsu/SubtilinReceiver_spaRK_separated/1)
+- Have a look at the proteomics record 'PXD013039' in [PRIDE](https://www.ebi.ac.uk/pride/archive/projects/PXD013039)
+- Have a look at the metabolomics record 'MTBLS2289' in [Metabolights](https://www.ebi.ac.uk/metabolights/MTBLS2289/descriptors)
+- Have a look at the scripts deposit 'RNA-Seq-validation' in [GitHub](https://github.com/PauloFlores/RNA-Seq-validation)
+
+Report to the group, what advantages can you see in using a specific repository over a generalist repository like Zenodo.
+
+:::::::::::::::  solution
+
+## Solution
+
+Some advantages are:
+
+- The repository is more relevant to your discipline than a generalist one.
+- Higher exposure (people looking for those specific types of data will usually first look at the specific repository).
+- Higher number of citations (see below).
+
+:::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Citation Advantage
+
+Sharing data openly increases the number of citations of the corresponding publications - the supporting evidence base is growing:
+
+- Report: "The Open Data Citation Advantage"
+  SPARC Europe, February 2017
+  <https://sparceurope.org/open-data-citation-advantage/>
+  Shows that papers supported by openly-shared data get more citations. Includes evidence from a wide range of fields.
+- "The citation advantage of linking publications to research data" (July 2019)
+  Colavizza et al. A <https://arxiv.org/abs/1907.02565>
+  Shows that papers which linked to their data had up to 25% greater citation impact, based on comparing half a million articles from PLoS and BMC.
+
+:::::::::::::::::::::::::::::::::::::::::  callout
+
+## Extra features
+
+It is also worth considering that some repositories offer extra features, such as running simulations or providing visualisation. For example, [FAIRDOMhub](https://fairdomhub.org/) can run model simulations and has project structures. Do not forget to take this into account when choosing your repository. Extra features might come in handy.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## How do we choose a research data repository?
+
+(3 min teaching)
+As a general rule, your research needs to be deposited in discipline/data specific repository. If no specific repository can be found, then you can use a generalist repository. Having said this, there are tons of data repositories to choose from. Choosing one can be time consuming and challenging as well.
+So how do you go about finding a repository:
+
+- Check your publisher's (if it's for a specific manuscript) or your funder(s)' recommended list(s) of repositories, some of which can be found below:
+  
+  - [BioMed Central / Springer Nature](https://www.springernature.com/gp/authors/research-data-policy/recommended-repositories)
+  - [eLife](https://submit.elifesciences.org/html/elife_author_instructions.html#policies)
+  - [Elsevier](https://www.elsevier.com/about/policies/research-data)
+  - [EMBO Press](https://www.embopress.org/page/journal/14602075/authorguide#datadeposition)
+  - [F1000 Research](https://f1000research.com/for-authors/data-guidelines)
+  - [GIGAscience - OUP](https://academic.oup.com/gigascience/pages/instructions_to_authors)
+  - [PLoS](https://journals.plos.org/plosbiology/s/recommended-repositories)
+  - [Scientific Data - Nature](https://www.nature.com/sdata/policies/repositories)
+  - [Taylor and Francis](https://authorservices.taylorandfrancis.com/data-sharing-policies/repositories/)
+  - [BBSRC](https://bbsrc.ukri.org/research/resources/)
+  - [NERC](https://nerc.ukri.org/research/sites/environmental-data-service-eds/policy/)
+  - [Royal Society](https://royalsociety.org/journals/ethics-policies/data-sharing-mining/)
+  - [Wellcome Open Research](https://wellcomeopenresearch.org/for-authors/data-guidelines)
+
+- Check [Fairsharing recommendations](https://fairsharing.org/recommendations/?q=) (It is a very good resource for funding not only repositories but also standards, recommendations and ontologies)
+
+- alternatively, check the [Registry of research data repositories - re3data](https://www.re3data.org/)
+
+- our own: [BioRDM suggested data repositories](https://www.wiki.ed.ac.uk/display/RDMS/Suggested+data+repositories)
+
+> ## Exercise 4: Finding a repository (3 min).
+> 
+> Using [Fairsharing](https://fairsharing.org/) or Registry of research data repositories [re3data](https://www.re3data.org/) ...
+> 
+> - Find a repo for flow cytometry data.
+> - Find a recommended repo for Your favourite/chosen data type.
+> 
+> > ## Solution
+
+<!-- >>  Note to instructor: Fairsharing gives few options, people may give different answer follow up why they selected particular ones. show genomoics query vs recommended by funders/BioRDM . 
+ -->
+
+:::::::::::::::::::::::::::::::::::::::  challenge
+
+:::::::::::::::  solution
+
+Fairsharing lists over two hundred recommended databases.
+Learners here today may have selected different databases from each other, that's fine!  
+The BioRDM team at University of Edinburgh recommends
+[FlowRepository](https://flowrepository.org/)
+and [ImmPort](https://www.immport.org/).
+
+Taking another research area: if you search for 'genomics' on FAIRsharing, you'll get a list of more than fifty recommended repositories.  
+Whereas PLoS provides a more biologically meaningful set of suggested Omics repositories, see screenshot below:
+![](fig/omics-repos-recommended-by-PLoS_Screenshot.png){alt='screenshot of Omics section of PLoS webpage'}
+
+:::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+(7 min teaching including the discussion about repositories in Ex5)
+
+A list of UoE BioRDM's recommended data repositories can be found [here](https://www.wiki.ed.ac.uk/display/RDMS/Suggested+data+repositories).
+
+:::::::::::::::::::::::::::::::::::::::::  callout
+
+## What comes first? the repository or the metadata?
+
+Finding a repository first may help in deciding what metadata to collect and how!
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Evaluating a research data repository
+
+You can evaluate the repositories by following this criteria:
+
+- who is behind it, what is its funding
+- quality of interaction: is the interaction for purposes of data deposit or reuse efficient, effective and satisfactory for you?
+- take-up and impact: what can I put in it? Is anyone else using it? Will others be able to find stuff deposited in it? Is the repository linked to other data repositories so I don't have to search tehre as well? Can anyone reuse the data? Can others cite the data, and will depositing boost citations to related papers?
+- policy and process: does it help you meet community standards of good practice and comply with policies stipulating data deposit?
+
+An interesting take can be found at Peter Murray-Rust's blog post [Criteria for successful repositories](https://blogs.ch.cam.ac.uk/pmr/2011/08/19/criteria-for-successful-repositories/).
+
+:::::::::::::::::::::::::::::::::::::::  challenge
+
+## Exercise 5: Using repositories (5 min).
+
+Discuss the following questions:
+
+- Why is choosing (a) domain specific repository(ies) over Zenodo more FAIR?
+- How can selecting a repository for your data as soon as an experiment is performed (or even before!) benefit your team's research and help data become FAIR?
+- What is the FAIRest thing to do if your publication contains multiple data types?
+- What is the most surprising thing you've learned today?
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::  callout
+
+## Attribution
+
+Content of this episode was adapted from or inspired by:
+
+- [FAIR principles](https://www.go-fair.org/fair-principles/)
+- [DCC - How can we evaluate data repositories?](https://www.dcc.ac.uk/news/how-can-we-evaluate-data-repositories-pointers-dryaduk)
+- [Criteria for successful repositories](https://blogs.ch.cam.ac.uk/pmr/2011/08/19/criteria-for-successful-repositories/)
+- [The Open Data Citation Advantage, SPARC Europe, Feb 2017](https://sparceurope.org/open-data-citation-advantage/)
+- [The citation advantage of linking publications to research data, Jul 2019, Colavizza et al. A](https://arxiv.org/abs/1907.02565)
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+:::::::::::::::::::::::::::::::::::::::: keypoints
+
+- Repositories are the main means for sharing research data.
+- You should use a data-type specific repository whenever possible.
+- Repositories are the key players in data reuse.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
